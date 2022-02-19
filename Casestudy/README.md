@@ -62,5 +62,52 @@
 * #### Compressor
 ![compressor-Page-2](https://user-images.githubusercontent.com/77672209/154807750-e033992c-fee7-499e-a3b2-a9b883a7e5ca.jpg)
 
+## COMPONENTS DESCRIPTION
 
+* #### Microcontroller
+An integrated circuit that contains a microprocessor along with memory and associated circuits and that controls some or all of the functions of an electronic device (such as a home appliance) or system.
 
+* #### Bluetooth
+Bluetooth is an open wireless technology standard for transmitting fixed and mobile electronic device data over short distances.
+
+* #### ZigBee
+ZigBee is an open global standard for wireless technology designed to use low-power digital radio signals for personal area networks.
+
+* #### DAC
+Digital-to-Analog Converter (DAC) is a device for converting Digital signals into corresponding Analog signals.
+
+* #### ADC
+Analog-to-Digital Converter (ADC) is a device for converting Analog signals into corresponding Digital signals.
+
+* #### LCD
+LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
+
+* #### Octo-Coupler
+Opto-coupler is an electronic component that transfers electrical signals between two isolated circuits. Optocoupler also called Opto-isolator, photo coupler or optical isolator.
+
+* #### Motor
+a device that changes electricity or fuel into movement and makes a machine work
+
+* #### Memory
+Memory is an important part of embedded systems. The cost and performance of an embedded system heavily depends on the kind of memory devices it utilizes.
+
+* #### RAM
+ Random access memory (RAM) is a computer's short-term memory, which it uses to handle all active tasks and apps. It is a hardware device generally located on the motherboard of a computer and acts as an internal memory of the CPU. 
+
+* #### ROM
+ROM, which stands for read only memory, is a memory device or storage medium that stores information permanently. It is also the primary memory unit of a computer along with the random-access memory (RAM). It is called read only memory as we can only read the programs and data stored on it but cannot write on it. 
+
+* #### Power Management Unit
+The PMU is a microcontroller, or integrated circuit, that controls the power functions of Macintosh computers. Though it is not a large component, the PMU contains several parts, including memory, software, firmware, and its own CPU. 
+
+* #### Moto Driver
+The motor driver IC is an integrated circuit chip used as a motor controlling device in autonomous robots and embedded circuits. 
+
+* #### Temperature Sensor
+A temperature sensor is a device that is designed to measure the degree of hotness or coolness in an object. The working of a temperature meter depends upon the voltage across the diode. 
+
+* #### Humidity sensor
+Humidity sensors are electronic devices enabling you to measure the environment’s humidity and convert the data into a corresponding electrical signal that can be used for different purposes.
+
+* #### LED
+Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging from your mobile phone to large advertising billboards.
