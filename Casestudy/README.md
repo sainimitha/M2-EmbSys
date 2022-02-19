@@ -1,7 +1,7 @@
 # AIR CONDITIONER
 
 ## INTRODUCTION
-     Air conditioning can be defined as the treatment of indoor air in order to control certain conditions required for human comfort. The desirable conditions may be temperature, humidity, dust particle level, odour level, and air motion.
+ Air conditioning can be defined as the treatment of indoor air in order to control certain conditions required for human comfort. The desirable conditions may be temperature, humidity, dust particle level, odour level, and air motion.
 
 ## REQUIREMENTS
 
@@ -61,5 +61,6 @@
 
 * #### Compressor
 ![compressor-Page-2](https://user-images.githubusercontent.com/77672209/154807750-e033992c-fee7-499e-a3b2-a9b883a7e5ca.jpg)
+
 
 
