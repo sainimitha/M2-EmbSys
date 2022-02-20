@@ -7,7 +7,7 @@
 
 * ## High Level Requirements
 
-     |HLR(ID)|Descripation|
+     |HLR(ID)|High Level Requirements|
      ---|---|
      |HLR01|Remote controls|
      |HLR02|How accuracy the controller receives data|
@@ -17,7 +17,7 @@
 
 * ## Low Level Requirements
 
-     |LLR(ID)|Descripation|
+     |LLR(ID)|Low Level Requirements|
      ---|---|
      |LLR01_HLR01|Temperature sensor|
      |LLR02_HLR01|Humidity sensor|
@@ -111,3 +111,36 @@ Humidity sensors are electronic devices enabling you to measure the environment�
 
 * #### LED
 Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging from your mobile phone to large advertising billboards.
+
+## SUB – SYSTEM TESTING
+|Test_ID|Sub-System Test Cases|
+---|---|
+|TC01|Verify the functionality of the on/off button.|
+|TC02|Verify if it’s working in every temperature setting.|
+|TC03|Verify the minimum temperature that can be achieved by the AC.|
+|TC04|Verify the maximum temperature that can be achieved by the AC.|
+|TC05|Verify LED is on or not and bulb Blink Or Not when Plug in.|
+|TC06|Verify if the different AC fan speeds, work correctly.|
+|TC07|Verify Humidity sensor in different climate change (Moisture, Dry).|
+|TC08|Verify Bluetooth device range when it is highly covered (Remote).|
+|TC09|Verify Bluetooth device range when it is partially covered (Remote).
+|TC10|Verify the response time between the AC remote and the AC.|
+|TC11|Verify the Timer is working or not.|
+|TC12|Verify Power Management unit status for high voltage.|
+|TC13|Verify Power Management unit status for low voltage.|
+|TC14|Verify Buzzer when turned ON/OFF.|
+|TC15|Verify the information Displayed in the display panel is correct or not.|
+|TC16|Verify if the display isn’t too bright or too dark.|
+|TC17|Verify Compressor Motor Speed when High Voltage.|
+|TC18|Verify Compressor Motor Speed when Low Voltage.|
+|TC19|Verify that cooling in extra big size room.|
+|TC20|Verify that cooling in extra small size room.|
+
+## SYSTEM TESTING
+|TEST_ID|System Test cases|
+---|---|
+|TC01|Verify the remote controls.|
+|TC02|Verify how accurately Microcontroller receives data.|
+|TC03|Verify Bluetooth, ZigBee connectivity.|
+|TC04|Verify the Output response.|
+
