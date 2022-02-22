@@ -144,3 +144,17 @@ Light-emitting diode (LED) is a widely used standard source of light in electric
 |TC03|Verify Bluetooth, ZigBee connectivity.|
 |TC04|Verify the Output response.|
 
+## APPLICATION
+* The application of Air conditioning systems is everywhere from our home to office, cars, shopping malls, theaters, etc.
+  Generally, Split Air conditioners and Window AC are used in our homes, small offices, etc.
+
+* Ductable Air Conditioner, Variable Refrigerant Volume, or VRV Air Conditioners are used in large offices, shopping malls, etc.
+
+* Central Air Conditioning System including Chiller, Heat Pump, AHUs are used in the large industrial purpose for
+  manufacturing or mass production systems.
+
+## REFERENCES
+* [Wikipedia](https://en.wikipedia.org/wiki/Air_conditioning)
+
+* [Encyclopedia](https://www.encyclopedia.com/science-and-technology/technology/technology-terms-and-concepts/air-conditioning)
+  
