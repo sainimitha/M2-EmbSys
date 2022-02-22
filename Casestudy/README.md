@@ -54,7 +54,7 @@
 ![power management unit-Page-2](https://user-images.githubusercontent.com/77672209/154807689-b82bd09b-a782-441a-bfa7-93ad7accef96.jpg)
 
 * #### Buzzer
-![Zigbee-Page-2](https://user-images.githubusercontent.com/77672209/154807711-a5eff76e-409c-48d4-99a0-ef170a312b1a.jpg)
+![Buzzer-Page-2](https://user-images.githubusercontent.com/77672209/155158343-82b019f3-4b50-43dc-930b-fdf6d7b41a83.jpg)
 
 * #### LCD Display
 ![Bluetooth solution-Page-4](https://user-images.githubusercontent.com/77672209/154807734-8f040dee-0636-4822-a2f4-dece8867dc55.jpg)
