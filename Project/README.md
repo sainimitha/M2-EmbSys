@@ -55,15 +55,28 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 - ###### LCD Display
 ![LCD_Display](https://user-images.githubusercontent.com/82401251/155829447-29c77360-9d51-42b6-aefa-786347ccd581.jpg)
 
+## **COMPONENT DESCRIPTION**
 
+-  ###### Microcontroller
+An integrated circuit that contains a microprocessor along with memory and associated circuits and those controls some or all the functions of an electronic device (such as a home appliance) or system.
+
+-  ###### Temperature Sensor
+A temperature sensor is a device that is designed to measure the degree of hotness or coolness in an object. The working of a temperature meter depends upon the voltage across the diode.
+
+- ###### DC Motor
+A DC motor is an electrical machine that converts electrical energy into mechanical energy. In a DC motor, the input electrical energy is the direct current which is transformed into the mechanical rotation.
+
+- ###### Motor Driver
+The motor driver IC is an integrated circuit chip used as a motor controlling device in autonomous robots and embedded circuits. A motor driver is undoubtedly something that makes the motor move as per the given instructions or the inputs (high and low).
+
+- ###### LCD
+LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels
 
 ## **ADVANTAGES**
 - It is economical and easy to handle
 - Fan runs automatically
 - It is easy to install in heat dissipating devices to cool them down
 - Saves energy by turning off fan automatically at room temperature
-
-
 
 ## **APPLICATIONS**
 - It can be used to control the temperature of devices, rooms, electronic components, etc
