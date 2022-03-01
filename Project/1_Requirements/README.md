@@ -28,28 +28,6 @@ Plants play a vital role in maintaining the carbon dioxide and oxygen in air. Ma
 |HLR03_LLR05|It shall have a LED which is uesd to blink when the switch ON|
 |HLR04_LLR06|It shall have a 16x2 LCD which is used to display the moisture of the soil, humidity in the air|
 
-## **COMPONENTS DESCRIPATION**
-
--  ###### Microcontroller
-An integrated circuit that contains a microprocessor along with memory and associated circuits and those controls some or all the functions of an electronic device (such as a home appliance) or system.
-
-- ##### ATmega32
-The AVR microController is based on the advanced Reduced Instruction Set Computer (RISC) architecture. ATmega32 microController is a low power CMOS technology based controller. Due to RISC architecture AVR microcontroller can execute 1 million of instructions per second if cycle frequency is 1 MHz provided by crystal oscillator.
-
-- ##### Temperature and Humidity Sensor
-The DHT11 is a commonly used Temperature and humidity sensor that comes with a dedicated NTC to measure temperature and an 8-bit microcontroller to output the values of temperature and humidity as serial data.
-
-- ##### Soil Moisture Sensor
-The moisture sensor measures the volumetric water content of the soil with the help of a sensing probe which must be put into the soil. The sensor module operates between voltages of 3.3 V to 5V. 
-
-- ##### LED
-Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging from your mobile phone to large advertising billboards.
-
-- ##### Relay Module
-A 5v relay is an automatic switch that is commonly used in an automatic control circuit and to control a high-current using a low-current signal. The input voltage of the relay signal ranges from 0 to 5V.
-
-- ##### 16X2 LCD
-LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
 
 ## **ADVANTAGES**
 - Just the right amount of water will be released.
