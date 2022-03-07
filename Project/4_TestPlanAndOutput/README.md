@@ -9,8 +9,8 @@
 |TD_04|Circuit of the project shall simulate without errors|Passed|Success|Done :white_check_mark:|
 
 ## **LOW LEVEL TEST PLAN**
-|Test_ID|Test Cases Descripation|Status|
----|---|---|---|---|
+|Test_ID|Test Cases Descripation|Input|Expected O/P|Actual O/P|Status|
+---|---|---|---|---|---|
 |TD_01|Soil Humidity|15|Display on LCD|Display on LCD|Done :white_check_mark:|
 |TD_02|Temperature|32|Display on LCD|Display on LCD|Done :white_check_mark:|
 |TD_03|LED (ON)|Soil Humidity<50|ON|ON|Done :white_check_mark:|
