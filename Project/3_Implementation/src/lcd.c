@@ -1,14 +1,12 @@
+/**
+ * @brief Sainimitha Mullapudi
+ * 
+ */
 #include <inttypes.h>
 #include <avr/io.h>
 #include <avr/pgmspace.h>
 #include<stdint.h>
 #include "lcd.h"
-
-
-
-
-
-
 /* 
 ** constants/macros 
 */
