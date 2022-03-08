@@ -3,6 +3,11 @@
 ![Block Diagram](https://user-images.githubusercontent.com/77672209/156124897-5f8138ee-4196-4355-a75a-55fd6b90538d.jpg)
 
 
+## **FLOW CHART**
+
+![Flow Chart](https://user-images.githubusercontent.com/77672209/157167879-d8dfcb13-598c-489e-be0c-dd66facde611.jpg)
+
+
 ## **SYSTEM DESIGN**
 
 ![System Design](https://user-images.githubusercontent.com/77672209/156125092-a08a8162-8b9d-445b-8982-c72c27078d7f.jpg)
